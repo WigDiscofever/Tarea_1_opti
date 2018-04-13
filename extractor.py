@@ -7,20 +7,20 @@ import math
 #### For Secure Points #####
 
 idsecure = []
-V = []
-D = []
-C = []
+CV = []
+CD = []
+CC = []
 
 for d in csv.DictReader(open('secure_points.csv'), delimiter=','):
     idsecure.append(int(d['id']))
-    V.append(int(d['V']))
-    D.append(int(d['D']))
-    C.append(int(d['C']))
+    CV.append(int(d['V']))
+    CD.append(int(d['D']))
+    CC.append(int(d['C']))
 
 #print("id_secure= ", idsecure)
-#print("V = ", V)
-#print("D =", D)
-#print("C =", C)
+#print("CV = ", CV)
+#print("CD =", CD)
+#print("CC =", CC)
 
 #### For Demographics ####
 
@@ -39,6 +39,34 @@ for b in csv.DictReader(open("demographic.csv", "r"), delimiter=","):
 #print("lon = ", lon)
 #print("lat =", lat)
 #print("demanda =", demanda)
+    
+    
+#### Dictionaries ####
+
+Vmaker=[]
+for i in range(len(idsecure)):
+    b=tuple((idsecure[i],CV[i]))
+    Vmaker.append(b)
+V=dict(Vmaker)
+
+Cmaker=[]
+for i in range(len(idsecure)):
+    b=tuple((idsecure[i],CC[i]))
+    Cmaker.append(b)
+C=dict(Cmaker)
+
+Dmaker=[]
+for i in range(len(idsecure)):
+    b=tuple((idsecure[i],CD[i]))
+    Dmaker.append(b)
+D=dict(Dmaker)
+
+pmaker=[]
+for i in range(len(N)):
+    b=tuple((N[i],demanda[i]))
+    pmaker.append(b)
+p=dict(pmaker)
+
 
 
 #### For A ####
@@ -117,9 +145,11 @@ for (i,j) in A:
 #print(largorealtuples)
 largoreal=dict(largorealtuples)
 
-
-
-
+nodetosecure=[]
+for i in N:
+    for j in idsecure:
+        pair=tuple((i,j))
+        nodetosecure.append(pair)
 
 
 
