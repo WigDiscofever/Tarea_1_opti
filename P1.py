@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 
 #### To compare solutions from both algorithms, please go to the end of the document ####
+#### Please run extractor.py before running this script ####
+
 
 from gurobipy import *
 
@@ -16,12 +18,7 @@ def compute_shortest_path_fast(a,b,N,A,largo):
     return yay
 
 
-#### Run Data Base ####
-
-import os
-os.system("python extractor.py 1")
-
-#### Funcion: creates model for every pair of node given ####
+#### Function: creates model for every pair of node given ####
 
 def spmanual(a,b):
     print("Conecting nodes "+str(a)+" and "+str(b))
@@ -32,7 +29,7 @@ def spmanual(a,b):
     #### Binary for every arc ####
     x={}
     for (i,j) in A:
-        x[(i,j)]=model.addVar(vtype=GRB.BINARY, name="x_%s,%s" %(i,j), obj=largo[(i,j)], ub=1)
+        x[(i,j)]=model.addVar(vtype=GRB.BINARY, name="x_%s,%s" %(i,j), obj=largoreal[(i,j)], ub=1)
         model.update()
     
     #### Constraints ####
@@ -75,7 +72,7 @@ def compare(start, finish):
     t12=time.time()
     t1=int(t12-t11)
     t21=time.time()
-    b=compute_shortest_path_fast(start,finish,N,A,largo)
+    b=compute_shortest_path_fast(start,finish,N,A,largoreal)
     t22=time.time()
     t2=int(t22-t21)
     nxmethod.append(b)
@@ -90,7 +87,6 @@ import time
 
 startpoints = []
 finishpoints = []
-performance = []
 finallist = []
 
 def solvesolutions(q=1):
@@ -106,7 +102,7 @@ def solvesolutions(q=1):
         
 #### Define q=Quantity # Default q=1 ####
         
-q=50
+q=2
 solvesolutions(q)       
         
         

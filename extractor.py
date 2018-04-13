@@ -2,6 +2,7 @@
 
 import csv
 import numpy as np
+import math
 
 #### For Secure Points #####
 
@@ -69,16 +70,6 @@ for l in range(len(A)):
 #    print(distances[l])
     
 
-####### Create Distance Dictionary ########
-
-largotuples=[]
-for k in range(len(A)):
-    largotuples.append(tuple((A[k], distances[k])))
-#    print(largotuples[k])
-    
-largo=dict(largotuples)
-#print(largo)
-
 #### Create node list ####
 
 N=[]
@@ -87,17 +78,44 @@ for i in range(len(head)):
         N.append(head[i])
 #print(N)
 
-#### Create Matrix for storing distances ####
-#
-#size=(len(N)+1, len(N)+1)
-#mat = np.zeros(size)
-#for (i,j) in A:
-##    print((i,j))
-#    dist=abs(i-j)
-#    mat[i][j]=dist
+
+####### Create Distance Dictionary ########
+
+#### Assuming linear distribution for nodes ####
+largotuples=[]
+for k in range(len(A)):
+    largotuples.append(tuple((A[k], distances[k])))
+#    print(largotuples[k])
+    
+largo=dict(largotuples)
+#print(largo)
+
+#### Assuming plane distribution for nodes ####
+nodeswithpositionmaker = []
+nodeswithposition = []
 
 
+for k in range(len(N)):
+    x=lon[k]
+    y=lat[k]
+    position=tuple((x,y))
+    nodeswithpositionmaker.append(tuple((k+1, position)))
+    nodeswithposition = dict(nodeswithpositionmaker)
+#print(nodeswithposition)
 
+largorealtuples = []
+
+# Euclidean distance between two points
+
+def distance(points, i, j):
+    dx = points[i][0] - points[j][0]
+    dy = points[i][1] - points[j][1]
+    return math.sqrt(dx*dx + dy*dy)
+
+for (i,j) in A:
+    largorealtuples.append(((i,j), distance(nodeswithposition, i, j)))
+#print(largorealtuples)
+largoreal=dict(largorealtuples)
 
 
 
