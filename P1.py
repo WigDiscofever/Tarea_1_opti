@@ -1,8 +1,10 @@
 # -*- coding: utf-8 -*-
 
 #### To compare solutions from both algorithms, please go to the end of the document ####
-#### Please run extractor.py before running this script ####
 
+############################################################
+#### Please run extractor.py before running this script ####
+############################################################
 
 from gurobipy import *
 
@@ -106,7 +108,10 @@ q=2
 solvesolutions(q)       
         
 #### Create d_j matrix containg SP from each node to each safe node ####  
+
+###############################################################################
 #### Please comment if matrix already created, else it will take more time ####
+###############################################################################
 
 #ultimatematrixmaker=[]
 #for i in N:
