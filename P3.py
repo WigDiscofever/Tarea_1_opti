@@ -13,7 +13,7 @@ m=Model("P2")
 
 #### Decision Variables ####
 B=6000000
-M=1000000000000
+R=600
 x={}    
 y={}
 P={}
@@ -96,24 +96,3 @@ for i in range(len(nodeswithposition)+1):
         position[i]=a
 nx.draw(G, position, node_color="red",node_size=20, nodelist=N)
 nx.draw(G, position, node_color="blue",node_size=70, nodelist=securenodes)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
