@@ -109,9 +109,9 @@ solvesolutions(q)
         
 #### Create d_j matrix containg SP from each node to each safe node ####  
 
-###############################################################################
-#### Please comment if matrix already created, else it will take more time ####
-###############################################################################
+##################################################################################
+#### Please comment if matrix already created, or else it will take more time ####
+##################################################################################
 
 #ultimatematrixmaker=[]
 #for i in N:
@@ -121,5 +121,5 @@ solvesolutions(q)
 #        ultimatematrixmaker.append(tuple((pair,d)))
 #print(ultimatematrixmaker)
 #ultimatematrix=dict(ultimatematrixmaker)
-        
+
         

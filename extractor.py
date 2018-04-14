@@ -3,6 +3,47 @@
 import csv
 import numpy as np
 import math
+##############################################################################################
+#### Please run this code first, it creates all data base needed for every other function ####
+##############################################################################################
+
+#######################################################################################
+####################################  #################################################
+###################################    ################################################
+##################################      ###############################################
+#################################    #   ##############################################
+################################     #    #############################################
+###############################      #     ############################################
+##############################       #      ###########################################
+#############################                ##########################################
+############################         #        #########################################
+###########################                    ########################################
+#######################################################################################
+#######################################################################################
+######### Remember to comment last part of this script, else it with generate #########
+############### the same matrix of distances, taking very long ########################
+#######################################################################################
+
+
+#### For A ####
+
+head = []
+tail = []
+
+for c in csv.DictReader(open("arcos_def.csv", "r"), delimiter=","):
+    head.append(int(c["head"]))
+    tail.append(int(c["tail"]))
+    
+#print("head =", head)
+#print("tail", tail)
+  
+#### Create node list ####
+
+N=[]
+for i in range(len(head)):
+    if head[i] not in N:
+        N.append(head[i])
+#print(N)
 
 #### For Secure Points #####
 
@@ -98,13 +139,6 @@ for l in range(len(A)):
 #    print(distances[l])
     
 
-#### Create node list ####
-
-N=[]
-for i in range(len(head)):
-    if head[i] not in N:
-        N.append(head[i])
-#print(N)
 
 
 ####### Create Distance Dictionary ########
@@ -151,8 +185,32 @@ for i in N:
         pair=tuple((i,j))
         nodetosecure.append(pair)
 
+from gurobipy import *
 
+import networkx as NX
+def compute_shortest_path_fast(a,b,N,A,largo):
+    G = NX.DiGraph()
+    G.add_nodes_from(N)
+    for (i,j) in A:
+        G.add_edge(i,j, weight = largo[(i,j)])
+    print("Conectados los nodos "+str(a)+"\t"+str(b))
+    yay=NX.shortest_path_length(G,a,b, weight="weight")
+    print(yay)
+    return yay
 
+#### Create d_j matrix containg SP from each node to each safe node ####  
+
+##################################################################################
+#### Please comment if matrix already created, or else it will take more time ####
+##################################################################################
+
+ultimatematrixmaker=[]
+for i in N:
+    for j in idsecure:
+        pair=tuple((i,j))
+        d=compute_shortest_path_fast(i,j,N,A,largoreal)
+        ultimatematrixmaker.append(tuple((pair,d)))
+ultimatematrix=dict(ultimatematrixmaker)
 
 
 

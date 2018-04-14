@@ -18,7 +18,7 @@ x={}
 y={}
 P={}
 T={}
-for j in N:
+for j in idsecure:
     #### Integer, Quantity of people in node j ####
     T[j]=m.addVar(vtype="I", name="T_%s" %(j), lb=0)
     #### Binary, if node j is safe point ####
@@ -58,7 +58,6 @@ for j in idsecure:
 
 for (i,j) in nodetosecure:
     m.addConstr(y[i,j] >= ((P[i,j])/M))  
-    
 
 #### Total Demand ####
 for i in N:
@@ -68,32 +67,12 @@ for i in N:
 for j in idsecure:
     m.addConstr(quicksum(P[i,j] for i in N) == T[j])
  
-
 m.update()
 
 m.optimize()
 
-
-import networkx as nx
-#### Draw nodes and edges ####
-G = nx.Graph()
-G.add_nodes_from(N)
-G.add_nodes_from(idsecure)
-#for (i,j) in A:
-#    G.add_edge(i,j)
-    
-position={}
-for i in range(len(nodeswithposition)+1):
-    if i == 0:
-        pass
-    else:
-        a=nodeswithposition[i]
-        position[i]=a
-        print(position[i])
-nx.draw(G, position, node_color="red",node_size=20, nodelist=N)
-nx.draw(G, position, node_color="blue",node_size=70, nodelist=idsecure)
-    
-    
+import matplotlib.pyplot as plt
+  
     
     
     
