@@ -9500,3 +9500,4576 @@ Solution count 2: 1.86565e+07 2.6355e+08
 
 Optimal solution found (tolerance 1.00e-04)
 Best objective 1.865650691084e+07, best bound 1.865650691084e+07, gap 0.0000%
+Optimize a model with 50302 rows, 97920 columns and 391200 nonzeros
+Variable types: 0 continuous, 97920 integer (48960 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+05]
+  Objective range  [9e+01, 7e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 9e+08]
+Warning: Model contains large matrix coefficient range
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Found heuristic solution: objective 1055242.7071
+Presolve removed 50302 rows and 97920 columns
+Presolve time: 0.17s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.23 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 2: 73000.7 1.05524e+06 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 7.300069755635e+04, best bound 7.300069755635e+04, gap 0.0000%
+Optimize a model with 50302 rows, 97920 columns and 391200 nonzeros
+Variable types: 0 continuous, 97920 integer (48960 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+05]
+  Objective range  [9e+01, 7e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 9e+12]
+Warning: Model contains large matrix coefficient range
+Warning: Model contains large rhs
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Found heuristic solution: objective 1055242.7071
+Presolve removed 50302 rows and 97920 columns
+Presolve time: 0.17s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.22 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 2: 73000.7 1.05524e+06 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 7.300069755635e+04, best bound 7.300069755635e+04, gap 0.0000%
+Optimize a model with 50302 rows, 97920 columns and 391200 nonzeros
+Variable types: 0 continuous, 97920 integer (48960 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+05]
+  Objective range  [9e+01, 7e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+06]
+Warning: Model contains large matrix coefficient range
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Presolve removed 50302 rows and 97920 columns
+Presolve time: 0.28s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.43 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 73000.7 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 7.300069755635e+04, best bound 7.300069755635e+04, gap 0.0000%
+Optimize a model with 50302 rows, 332112 columns and 391200 nonzeros
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+05]
+  Objective range  [4e+01, 8e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+06]
+Warning: Model contains large matrix coefficient range
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Presolve removed 50302 rows and 332112 columns
+Presolve time: 0.34s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.53 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Optimize a model with 50302 rows, 332112 columns and 391200 nonzeros
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+05]
+  Objective range  [4e+01, 8e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+06]
+Warning: Model contains large matrix coefficient range
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Presolve removed 50302 rows and 332112 columns
+Presolve time: 0.33s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.52 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Optimize a model with 50302 rows, 332112 columns and 342894 nonzeros
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+05]
+  Objective range  [4e+01, 8e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+06]
+Warning: Model contains large matrix coefficient range
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Presolve removed 49823 rows and 301923 columns
+Presolve time: 0.55s
+Presolved: 479 rows, 30189 columns, 60378 nonzeros
+Variable types: 0 continuous, 30189 integer (0 binary)
+
+Root relaxation: objective 0.000000e+00, 734 iterations, 0.10 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       0.0000000    0.00000  0.00%     -    1s
+
+Explored 0 nodes (1646 simplex iterations) in 1.16 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Optimize a model with 50302 rows, 332112 columns and 342360 nonzeros
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+05]
+  Objective range  [4e+01, 8e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+06]
+Warning: Model contains large matrix coefficient range
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Presolve removed 49823 rows and 301923 columns
+Presolve time: 0.54s
+Presolved: 479 rows, 30189 columns, 60378 nonzeros
+Variable types: 0 continuous, 30189 integer (0 binary)
+
+Root relaxation: objective 0.000000e+00, 734 iterations, 0.10 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       0.0000000    0.00000  0.00%     -    0s
+
+Explored 0 nodes (1646 simplex iterations) in 1.14 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Optimize a model with 50302 rows, 332112 columns and 342360 nonzeros
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+05]
+  Objective range  [4e+01, 8e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+06]
+Warning: Model contains large matrix coefficient range
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Presolve removed 49823 rows and 301923 columns
+Presolve time: 0.54s
+Presolved: 479 rows, 30189 columns, 60378 nonzeros
+Variable types: 0 continuous, 30189 integer (0 binary)
+
+Root relaxation: objective 0.000000e+00, 734 iterations, 0.10 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       0.0000000    0.00000  0.00%     -    0s
+
+Explored 0 nodes (1646 simplex iterations) in 1.14 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Optimize a model with 50302 rows, 332112 columns and 391200 nonzeros
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+05]
+  Objective range  [4e+01, 8e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+06]
+Warning: Model contains large matrix coefficient range
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Presolve removed 50302 rows and 332112 columns
+Presolve time: 0.34s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.53 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Optimize a model with 50302 rows, 332112 columns and 391200 nonzeros
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+05]
+  Objective range  [4e+01, 8e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+06]
+Warning: Model contains large matrix coefficient range
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Presolve removed 50302 rows and 332112 columns
+Presolve time: 0.34s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.53 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Optimize a model with 50302 rows, 332112 columns and 391200 nonzeros
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+05]
+  Objective range  [4e+01, 8e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+07]
+Warning: Model contains large matrix coefficient range
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Found heuristic solution: objective 200996.47561
+Presolve removed 50302 rows and 332112 columns
+Presolve time: 0.30s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.39 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 2: 0 200996 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Optimize a model with 50302 rows, 332112 columns and 624818 nonzeros
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+05]
+  Objective range  [4e+01, 8e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+07]
+Warning: Model contains large matrix coefficient range
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Found heuristic solution: objective 493022.25965
+Presolve removed 50302 rows and 332112 columns
+Presolve time: 0.42s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.52 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 2: 0 493022 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Optimize a model with 50302 rows, 332112 columns and 624818 nonzeros
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+05]
+  Objective range  [4e+01, 8e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+07]
+Warning: Model contains large matrix coefficient range
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Found heuristic solution: objective 1139.5364814
+Presolve removed 50302 rows and 332112 columns
+Presolve time: 0.41s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.52 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 2: 0 1139.54 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Optimize a model with 50302 rows, 97920 columns and 391200 nonzeros
+Variable types: 0 continuous, 97920 integer (48960 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+05]
+  Objective range  [9e+01, 7e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+06]
+Warning: Model contains large matrix coefficient range
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Presolve removed 49936 rows and 96567 columns
+Presolve time: 0.27s
+Presolved: 366 rows, 1353 columns, 2680 nonzeros
+Variable types: 0 continuous, 1353 integer (0 binary)
+Found heuristic solution: objective 4.098294e+07
+
+Root relaxation: objective 1.982802e+07, 495 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 1.9828e+07    0    2 4.0983e+07 1.9828e+07  51.6%     -    0s
+H    0     0                    1.982804e+07 1.9828e+07  0.00%     -    0s
+
+Explored 1 nodes (495 simplex iterations) in 0.44 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: 1.9828e+07 4.09829e+07 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.982804359079e+07, best bound 1.982802412382e+07, gap 0.0001%
+Optimize a model with 50302 rows, 332112 columns and 624818 nonzeros
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+05]
+  Objective range  [9e+01, 7e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+07]
+Warning: Model contains large matrix coefficient range
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Found heuristic solution: objective 349376.45408
+Presolve removed 50302 rows and 332112 columns
+Presolve time: 0.43s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.54 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 2: 0 349376 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Optimize a model with 50302 rows, 332112 columns and 624818 nonzeros
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+05]
+  Objective range  [9e+01, 7e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+07]
+Warning: Model contains large matrix coefficient range
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Found heuristic solution: objective 349376.45408
+Presolve removed 50302 rows and 332112 columns
+Presolve time: 0.44s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.55 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 2: 0 349376 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Optimize a model with 50302 rows, 332112 columns and 391200 nonzeros
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+05]
+  Objective range  [9e+01, 7e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+07]
+Warning: Model contains large matrix coefficient range
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Found heuristic solution: objective 1055242.7071
+Presolve removed 50302 rows and 332112 columns
+Presolve time: 0.32s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.41 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 2: 73000.7 1.05524e+06 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 7.300069755635e+04, best bound 7.300069755635e+04, gap 0.0000%
+Optimize a model with 50589 rows, 332112 columns and 508296 nonzeros
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+05]
+  Objective range  [9e+01, 7e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+07]
+Warning: Model contains large matrix coefficient range
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Found heuristic solution: objective 1055242.7071
+Presolve removed 50589 rows and 332112 columns
+Presolve time: 0.34s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.44 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 2: 73000.7 1.05524e+06 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 7.300069755635e+04, best bound 7.300069755635e+04, gap 0.0000%
+Optimize a model with 50589 rows, 332112 columns and 508296 nonzeros
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+05]
+  Objective range  [9e+01, 7e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+06]
+Warning: Model contains large matrix coefficient range
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Presolve removed 50589 rows and 332112 columns
+Presolve time: 0.39s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.58 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 73000.7 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 7.300069755635e+04, best bound 7.300069755635e+04, gap 0.0000%
+Optimize a model with 50589 rows, 332112 columns and 459456 nonzeros
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 4e+05]
+  Objective range  [9e+01, 7e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+06]
+Warning: Model contains large matrix coefficient range
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Presolve removed 50112 rows and 302739 columns
+Presolve time: 0.73s
+Presolved: 477 rows, 29373 columns, 58746 nonzeros
+Variable types: 0 continuous, 29373 integer (0 binary)
+
+Root relaxation: objective 7.300070e+04, 527 iterations, 0.10 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    73000.697556 73000.6976  0.00%     -    1s
+
+Explored 0 nodes (527 simplex iterations) in 1.12 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 73000.7 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 7.300069755635e+04, best bound 7.300069755635e+04, gap 0.0000%
+Optimize a model with 50589 rows, 332112 columns and 459456 nonzeros
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 4e+05]
+  Objective range  [9e+01, 7e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+06]
+Warning: Model contains large matrix coefficient range
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Presolve removed 50112 rows and 302739 columns
+Presolve time: 0.71s
+Presolved: 477 rows, 29373 columns, 58746 nonzeros
+Variable types: 0 continuous, 29373 integer (0 binary)
+
+Root relaxation: objective 7.300070e+04, 527 iterations, 0.10 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    73000.697556 73000.6976  0.00%     -    1s
+
+Explored 0 nodes (527 simplex iterations) in 1.10 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 73000.7 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 7.300069755635e+04, best bound 7.300069755635e+04, gap 0.0000%
+Optimize a model with 50589 rows, 332112 columns and 459456 nonzeros
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 4e+05]
+  Objective range  [9e+01, 7e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+06]
+Warning: Model contains large matrix coefficient range
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Presolve removed 50112 rows and 302739 columns
+Presolve time: 0.71s
+Presolved: 477 rows, 29373 columns, 58746 nonzeros
+Variable types: 0 continuous, 29373 integer (0 binary)
+
+Root relaxation: objective 7.300070e+04, 527 iterations, 0.10 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    73000.697556 73000.6976  0.00%     -    1s
+
+Explored 0 nodes (527 simplex iterations) in 1.10 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 73000.7 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 7.300069755635e+04, best bound 7.300069755635e+04, gap 0.0000%
+Optimize a model with 50589 rows, 332112 columns and 459456 nonzeros
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 4e+05]
+  Objective range  [9e+01, 7e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+06]
+Warning: Model contains large matrix coefficient range
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Presolve removed 50112 rows and 302739 columns
+Presolve time: 0.71s
+Presolved: 477 rows, 29373 columns, 58746 nonzeros
+Variable types: 0 continuous, 29373 integer (0 binary)
+
+Root relaxation: objective 7.300070e+04, 527 iterations, 0.10 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    73000.697556 73000.6976  0.00%     -    1s
+
+Explored 0 nodes (527 simplex iterations) in 1.10 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 73000.7 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 7.300069755635e+04, best bound 7.300069755635e+04, gap 0.0000%
+Optimize a model with 50588 rows, 332112 columns and 459216 nonzeros
+Model has 1 quadratic constraint
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+00]
+  QMatrix range    [2e+01, 1e+02]
+  QLMatrix range   [2e+05, 4e+05]
+  Objective range  [9e+01, 7e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+02]
+  QRHS range       [6e+06, 6e+06]
+Presolve removed 50061 rows and 283032 columns
+Presolve time: 0.32s
+Presolved: 648 rows, 49200 columns, 98400 nonzeros
+Variable types: 1 continuous, 49199 integer (120 binary)
+
+Root relaxation: objective 7.300070e+04, 792 iterations, 0.30 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    73000.697556 73000.6976  0.00%     -    0s
+
+Explored 0 nodes (792 simplex iterations) in 0.94 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 73000.7 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 7.300069755635e+04, best bound 7.300069755635e+04, gap 0.0000%
+Optimize a model with 50588 rows, 332112 columns and 459216 nonzeros
+Model has 1 quadratic constraint
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+00]
+  QMatrix range    [2e+01, 1e+02]
+  QLMatrix range   [3e+02, 1e+05]
+  Objective range  [9e+01, 7e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+02]
+  QRHS range       [6e+06, 6e+06]
+Presolve removed 49247 rows and 234192 columns
+Presolve time: 0.33s
+Presolved: 1462 rows, 98040 columns, 244920 nonzeros
+Variable types: 0 continuous, 98040 integer (48960 binary)
+
+Root relaxation: objective 7.300070e+04, 815 iterations, 0.42 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    73000.697556 73000.6976  0.00%     -    1s
+
+Explored 0 nodes (815 simplex iterations) in 1.29 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 73000.7 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 7.300069755635e+04, best bound 7.300069755635e+04, gap 0.0000%
+Optimize a model with 50588 rows, 332112 columns and 459216 nonzeros
+Model has 1 quadratic constraint
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+00]
+  QMatrix range    [2e+01, 1e+02]
+  QLMatrix range   [3e+02, 1e+05]
+  Objective range  [9e+01, 7e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+02]
+  QRHS range       [6e+06, 6e+06]
+Presolve removed 49247 rows and 234192 columns
+Presolve time: 0.33s
+Presolved: 1462 rows, 98040 columns, 244920 nonzeros
+Variable types: 0 continuous, 98040 integer (48960 binary)
+
+Root relaxation: objective 7.300070e+04, 815 iterations, 0.44 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    73000.697556 73000.6976  0.00%     -    1s
+
+Explored 0 nodes (815 simplex iterations) in 1.29 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 73000.7 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 7.300069755635e+04, best bound 7.300069755635e+04, gap 0.0000%
+Optimize a model with 50588 rows, 332112 columns and 459216 nonzeros
+Model has 1 quadratic constraint
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+00]
+  QMatrix range    [2e+01, 1e+02]
+  QLMatrix range   [3e+02, 1e+05]
+  Objective range  [9e+01, 7e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+02]
+  QRHS range       [6e+06, 6e+06]
+Presolve removed 49247 rows and 234192 columns
+Presolve time: 0.33s
+Presolved: 1462 rows, 98040 columns, 244920 nonzeros
+Variable types: 0 continuous, 98040 integer (48960 binary)
+
+Root relaxation: objective 7.300070e+04, 815 iterations, 0.44 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    73000.697556 73000.6976  0.00%     -    1s
+
+Explored 0 nodes (815 simplex iterations) in 1.29 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 73000.7 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 7.300069755635e+04, best bound 7.300069755635e+04, gap 0.0000%
+Optimize a model with 50588 rows, 332112 columns and 459216 nonzeros
+Model has 48720 quadratic objective terms
+Model has 1 quadratic constraint
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+00]
+  QMatrix range    [2e+01, 1e+02]
+  QLMatrix range   [3e+02, 1e+05]
+  Objective range  [0e+00, 0e+00]
+  QObjective range [2e+02, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+02]
+  QRHS range       [6e+06, 6e+06]
+Modified 48840 Q diagonals
+Presolve removed 49247 rows and 234192 columns
+Presolve time: 0.38s
+Presolved: 1462 rows, 98040 columns, 244920 nonzeros
+Presolved model has 97560 quadratic objective terms
+Variable types: 120 continuous, 97920 integer (48960 binary)
+
+Root relaxation: objective -1.565034e+07, 2145 iterations, 0.86 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 -1.565e+07    0  932          -    0.00000      -     -    1s
+H    0     0                      -0.0000038   -0.00000  0.00%     -    2s
+
+Explored 1 nodes (2145 simplex iterations) in 2.10 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: -3.84636e-06 
+No other solutions better than -3.84636e-06
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -7.724553258425e-06, best bound -7.724553258425e-06, gap 0.0000%
+Optimize a model with 50588 rows, 332112 columns and 459216 nonzeros
+Model has 48720 quadratic objective terms
+Model has 1 quadratic constraint
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+00]
+  QMatrix range    [2e+01, 1e+02]
+  QLMatrix range   [3e+02, 1e+05]
+  Objective range  [0e+00, 0e+00]
+  QObjective range [2e+02, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+02]
+  QRHS range       [6e+07, 6e+07]
+Modified 48840 Q diagonals
+Presolve removed 49247 rows and 234192 columns
+Presolve time: 0.38s
+Presolved: 1462 rows, 98040 columns, 244920 nonzeros
+Presolved model has 97560 quadratic objective terms
+Variable types: 120 continuous, 97920 integer (48960 binary)
+
+Root relaxation: objective -1.565034e+07, 2145 iterations, 0.85 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 -1.565e+07    0  932          -    0.00000      -     -    1s
+H    0     0                      -0.0000038   -0.00000  0.00%     -    2s
+
+Explored 1 nodes (2145 simplex iterations) in 2.06 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: -3.84636e-06 
+No other solutions better than -3.84636e-06
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -7.724553258425e-06, best bound -7.724553258425e-06, gap 0.0000%
+Optimize a model with 50588 rows, 332112 columns and 459216 nonzeros
+Model has 48720 quadratic objective terms
+Model has 1 quadratic constraint
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+00]
+  QMatrix range    [2e+01, 1e+02]
+  QLMatrix range   [3e+02, 1e+05]
+  Objective range  [0e+00, 0e+00]
+  QObjective range [2e+02, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+02]
+  QRHS range       [6e+08, 6e+08]
+Modified 48840 Q diagonals
+Presolve removed 49247 rows and 234192 columns
+Presolve time: 0.37s
+Presolved: 1462 rows, 98040 columns, 244920 nonzeros
+Presolved model has 97560 quadratic objective terms
+Variable types: 120 continuous, 97920 integer (48960 binary)
+
+Root relaxation: objective -1.565034e+07, 2145 iterations, 0.84 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 -1.565e+07    0  932          -    0.00000      -     -    1s
+H    0     0                      -0.0000038   -0.00000  0.00%     -    2s
+
+Explored 1 nodes (2145 simplex iterations) in 2.05 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: -3.84636e-06 
+No other solutions better than -3.84636e-06
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -7.724553258425e-06, best bound -7.724553258425e-06, gap 0.0000%
+Optimize a model with 50588 rows, 332112 columns and 459216 nonzeros
+Model has 48720 quadratic objective terms
+Model has 1 quadratic constraint
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+00]
+  QMatrix range    [2e+01, 1e+02]
+  QLMatrix range   [3e+02, 1e+05]
+  Objective range  [0e+00, 0e+00]
+  QObjective range [2e+02, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+02]
+  QRHS range       [6e+10, 6e+10]
+Warning: Model contains large rhs on quadratic constraints
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Presolve removed 49774 rows and 283152 columns
+Presolve time: 0.99s
+Presolved: 49534 rows, 97680 columns, 243840 nonzeros
+Variable types: 0 continuous, 97680 integer (97680 binary)
+Found heuristic solution: objective 0.0000000
+
+Explored 1 nodes (0 simplex iterations) in 1.20 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Optimize a model with 50588 rows, 332112 columns and 459216 nonzeros
+Model has 1 quadratic constraint
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+00]
+  QMatrix range    [2e+01, 7e+02]
+  QLMatrix range   [2e+04, 1e+05]
+  Objective range  [9e+01, 7e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+02]
+  QRHS range       [6e+06, 6e+06]
+Presolve removed 49247 rows and 234192 columns
+Presolve time: 0.40s
+Presolved: 50302 rows, 146880 columns, 391440 nonzeros
+Variable types: 1 continuous, 146879 integer (97800 binary)
+Found heuristic solution: objective 73000.697556
+
+Explored 1 nodes (0 simplex iterations) in 0.71 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 73000.7 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 7.300069755635e+04, best bound 7.300069755635e+04, gap 0.0000%
+Optimize a model with 50588 rows, 332112 columns and 459216 nonzeros
+Model has 1 quadratic constraint
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+00]
+  QMatrix range    [2e+01, 7e+02]
+  QLMatrix range   [2e+04, 1e+05]
+  Objective range  [9e+01, 7e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+02]
+  QRHS range       [6e+06, 6e+06]
+Presolve removed 49247 rows and 234192 columns
+Presolve time: 0.39s
+Presolved: 99382 rows, 146880 columns, 538440 nonzeros
+Variable types: 120 continuous, 146760 integer (97800 binary)
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+    5525    7.3000699e+04   1.511196e+04   0.000000e+00      6s
+   11988    7.3000698e+04   0.000000e+00   0.000000e+00      7s
+
+Root relaxation: objective 7.300070e+04, 11988 iterations, 5.59 seconds
+Total elapsed time = 21.81s
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 73000.6976    0  106          - 73000.6976      -     -   23s
+     0     0 73000.6976    0  134          - 73000.6976      -     -   25s
+     0     0 73000.6976    0    2          - 73000.6976      -     -   28s
+H    0     0                    1020280.8449 73000.6976  92.8%     -   28s
+     0     0 73000.6976    0    2 1020280.84 73000.6976  92.8%     -   29s
+H    0     0                    73000.697556 73000.6976  0.00%     -   33s
+     0     0 73000.6976    0    2 73000.6976 73000.6976  0.00%     -   33s
+
+Cutting planes:
+  Gomory: 82
+  Cover: 128
+  Implied bound: 2
+  Flow cover: 24
+
+Explored 1 nodes (24979 simplex iterations) in 33.60 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: 73000.7 1.02028e+06 
+
+Optimal solution found (tolerance 1.00e-04)
+Warning: max constraint violation (4.8666e+00) exceeds tolerance
+         (possibly due to large matrix coefficient range)
+Best objective 7.300069755635e+04, best bound 7.300069755635e+04, gap 0.0000%
+Optimize a model with 50588 rows, 332112 columns and 459216 nonzeros
+Model has 1 quadratic constraint
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+00]
+  QMatrix range    [2e+01, 7e+02]
+  QLMatrix range   [2e+04, 1e+05]
+  Objective range  [9e+01, 7e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+02]
+  QRHS range       [6e+06, 6e+06]
+Presolve removed 49247 rows and 234192 columns
+Presolve time: 0.40s
+Presolved: 50302 rows, 146880 columns, 391440 nonzeros
+Variable types: 1 continuous, 146879 integer (97800 binary)
+Found heuristic solution: objective 73000.697556
+
+Explored 1 nodes (0 simplex iterations) in 0.71 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 73000.7 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 7.300069755635e+04, best bound 7.300069755635e+04, gap 0.0000%
+Optimize a model with 50588 rows, 332112 columns and 459216 nonzeros
+Model has 1 quadratic constraint
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+00]
+  QMatrix range    [2e+01, 7e+02]
+  QLMatrix range   [2e+04, 1e+05]
+  Objective range  [9e+01, 7e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+02]
+  QRHS range       [6e+06, 6e+06]
+Presolve removed 49247 rows and 234192 columns
+Presolve time: 0.40s
+Presolved: 50302 rows, 146880 columns, 391440 nonzeros
+Variable types: 1 continuous, 146879 integer (97800 binary)
+Found heuristic solution: objective 73000.697556
+
+Explored 1 nodes (0 simplex iterations) in 0.70 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 73000.7 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 7.300069755635e+04, best bound 7.300069755635e+04, gap 0.0000%
+Optimize a model with 50589 rows, 332112 columns and 508176 nonzeros
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 7e+02]
+  Objective range  [9e+01, 7e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+06]
+Warning: Model contains large matrix coefficient range
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Presolve removed 407 rows and 234192 columns
+Presolve time: 0.05s
+
+Explored 0 nodes (0 simplex iterations) in 0.56 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Optimize a model with 50588 rows, 332112 columns and 459216 nonzeros
+Model has 1 quadratic constraint
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+00]
+  QMatrix range    [2e+01, 1e+02]
+  QLMatrix range   [3e+02, 1e+05]
+  Objective range  [9e+01, 7e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+02]
+  QRHS range       [6e+06, 6e+06]
+Presolve removed 49247 rows and 234192 columns
+Presolve time: 0.33s
+Presolved: 1462 rows, 98040 columns, 244920 nonzeros
+Variable types: 0 continuous, 98040 integer (48960 binary)
+
+Root relaxation: objective 7.300070e+04, 815 iterations, 0.44 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    73000.697556 73000.6976  0.00%     -    1s
+
+Explored 0 nodes (815 simplex iterations) in 1.27 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 73000.7 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 7.300069755635e+04, best bound 7.300069755635e+04, gap 0.0000%
+Optimize a model with 50588 rows, 332112 columns and 459216 nonzeros
+Model has 1 quadratic constraint
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+00]
+  QMatrix range    [2e+01, 1e+02]
+  QLMatrix range   [3e+02, 1e+05]
+  Objective range  [9e+01, 7e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+02]
+  QRHS range       [6e+06, 6e+06]
+Presolve removed 49127 rows and 234192 columns
+Presolve time: 0.35s
+Presolved: 1582 rows, 98040 columns, 293880 nonzeros
+Variable types: 0 continuous, 98040 integer (48960 binary)
+
+Root relaxation: infeasible, 1520 iterations, 0.68 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 infeasible    0               - infeasible      -     -    1s
+
+Explored 0 nodes (1520 simplex iterations) in 1.98 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Optimize a model with 50588 rows, 332112 columns and 459216 nonzeros
+Model has 1 quadratic constraint
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+00]
+  QMatrix range    [2e+01, 1e+02]
+  QLMatrix range   [3e+02, 1e+05]
+  Objective range  [9e+01, 7e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+02]
+  QRHS range       [6e+06, 6e+06]
+Presolve removed 407 rows and 234192 columns
+Presolve time: 0.06s
+
+Explored 0 nodes (0 simplex iterations) in 0.11 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Optimize a model with 50588 rows, 332112 columns and 459216 nonzeros
+Model has 1 quadratic constraint
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+00]
+  QMatrix range    [2e+01, 1e+02]
+  QLMatrix range   [3e+02, 1e+05]
+  Objective range  [9e+01, 7e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+02]
+  QRHS range       [6e+06, 6e+06]
+Presolve removed 49247 rows and 234192 columns
+Presolve time: 0.33s
+Presolved: 1462 rows, 98040 columns, 244920 nonzeros
+Variable types: 0 continuous, 98040 integer (48960 binary)
+
+Root relaxation: objective 7.300070e+04, 815 iterations, 0.43 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    73000.697556 73000.6976  0.00%     -    1s
+
+Explored 0 nodes (815 simplex iterations) in 1.26 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 73000.7 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 7.300069755635e+04, best bound 7.300069755635e+04, gap 0.0000%
+Optimize a model with 0 rows, 332112 columns and 0 nonzeros
+Model has 50589 quadratic constraints
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  QMatrix range    [1e-12, 1e+02]
+  QLMatrix range   [1e+00, 1e+05]
+  Objective range  [9e+01, 7e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+  QRHS range       [1e+00, 6e+06]
+Warning: Quadratic constraints contain large coefficient range
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Presolve removed 0 rows and 116809 columns
+Presolve time: 0.15s
+
+Explored 0 nodes (0 simplex iterations) in 0.20 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Best objective -, best bound -, gap -
+Optimize a model with 407 rows, 332112 columns and 166056 nonzeros
+Model has 50182 quadratic constraints
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  QMatrix range    [1e-12, 1e+02]
+  QLMatrix range   [1e+00, 1e+05]
+  Objective range  [9e+01, 7e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+  QRHS range       [1e+00, 6e+06]
+Warning: Quadratic constraints contain large coefficient range
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Presolve removed 287 rows and 234192 columns
+Presolve time: 0.17s
+
+Explored 0 nodes (0 simplex iterations) in 0.22 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Best objective -, best bound -, gap -
+Optimize a model with 814 rows, 332112 columns and 214896 nonzeros
+Model has 49775 quadratic constraints
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  QMatrix range    [1e-12, 1e+02]
+  QLMatrix range   [1e+00, 1e+05]
+  Objective range  [9e+01, 7e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+01, 5e+02]
+  QRHS range       [1e+00, 6e+06]
+Warning: Quadratic constraints contain large coefficient range
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Presolve removed 287 rows and 234192 columns
+Presolve time: 1.29s
+Presolved: 648 rows, 98040 columns, 147240 nonzeros
+Variable types: 120 continuous, 97920 integer (48960 binary)
+
+Root relaxation: objective 0.000000e+00, 804 iterations, 0.39 seconds
+Total elapsed time = 5.05s
+Total elapsed time = 10.41s
+Total elapsed time = 16.70s
+Total elapsed time = 21.81s
+Total elapsed time = 26.88s
+Total elapsed time = 30.17s
+Total elapsed time = 35.76s
+Total elapsed time = 42.42s
+Total elapsed time = 48.70s
+Total elapsed time = 53.51s
+Total elapsed time = 58.22s
+Total elapsed time = 62.06s
+Total elapsed time = 67.45s
+Total elapsed time = 73.12s
+Total elapsed time = 78.89s
+Total elapsed time = 84.75s
+Total elapsed time = 89.56s
+Total elapsed time = 95.65s
+Total elapsed time = 102.09s
+Total elapsed time = 107.39s
+Total elapsed time = 111.02s
+Total elapsed time = 118.29s
+Total elapsed time = 123.90s
+Total elapsed time = 132.08s
+Total elapsed time = 140.47s
+Total elapsed time = 148.81s
+Total elapsed time = 157.70s
+Total elapsed time = 166.25s
+Total elapsed time = 170.95s
+Total elapsed time = 179.57s
+Total elapsed time = 184.60s
+Total elapsed time = 193.91s
+Total elapsed time = 204.22s
+Total elapsed time = 214.11s
+Total elapsed time = 224.55s
+Total elapsed time = 234.67s
+Total elapsed time = 245.96s
+Total elapsed time = 254.76s
+Total elapsed time = 263.15s
+Total elapsed time = 269.94s
+Total elapsed time = 281.98s
+Total elapsed time = 293.46s
+Total elapsed time = 305.05s
+Total elapsed time = 316.74s
+Total elapsed time = 328.78s
+Total elapsed time = 335.40s
+Total elapsed time = 348.13s
+Total elapsed time = 361.16s
+Total elapsed time = 371.35s
+
+Gurobi 7.5.2 (win64, Python) logging started 04/14/18 12:08:50
+
+Academic license - for non-commercial use only
+Optimize a model with 934 rows, 332112 columns and 263856 nonzeros
+Model has 49655 quadratic constraints
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+00]
+  QMatrix range    [1e-12, 1e+02]
+  QLMatrix range   [1e+00, 1e+05]
+  Objective range  [9e+01, 7e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+01, 5e+02]
+  QRHS range       [1e+00, 6e+06]
+Warning: Quadratic constraints contain large coefficient range
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Presolve removed 407 rows and 234192 columns
+Presolve time: 1.10s
+Presolved: 648 rows, 98040 columns, 147240 nonzeros
+Variable types: 120 continuous, 97920 integer (48960 binary)
+
+Root relaxation: objective 0.000000e+00, 804 iterations, 0.40 seconds
+Total elapsed time = 6.03s
+Total elapsed time = 10.50s
+Total elapsed time = 16.84s
+Total elapsed time = 22.00s
+Total elapsed time = 27.12s
+Total elapsed time = 30.44s
+Total elapsed time = 36.09s
+Total elapsed time = 40.46s
+Total elapsed time = 45.71s
+Total elapsed time = 54.71s
+Total elapsed time = 59.46s
+Total elapsed time = 63.30s
+Total elapsed time = 68.94s
+
+Gurobi 7.5.2 (win64, Python) logging started 04/14/18 12:29:22
+
+Academic license - for non-commercial use only
+Optimize a model with 50588 rows, 332112 columns and 459216 nonzeros
+Model has 1 quadratic constraint
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+00]
+  QMatrix range    [2e+01, 1e+02]
+  QLMatrix range   [3e+02, 1e+05]
+  Objective range  [9e+01, 7e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+02]
+  QRHS range       [6e+06, 6e+06]
+Presolve removed 49247 rows and 234192 columns
+Presolve time: 0.42s
+Presolved: 1462 rows, 98040 columns, 244920 nonzeros
+Variable types: 0 continuous, 98040 integer (48960 binary)
+
+Root relaxation: objective 7.300070e+04, 815 iterations, 0.56 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    73000.697556 73000.6976  0.00%     -    1s
+
+Explored 0 nodes (815 simplex iterations) in 1.65 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 73000.7 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 7.300069755635e+04, best bound 7.300069755635e+04, gap 0.0000%
+Optimize a model with 49774 rows, 332112 columns and 361536 nonzeros
+Model has 815 quadratic constraints
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+00]
+  QMatrix range    [1e+00, 1e+02]
+  QLMatrix range   [3e+02, 1e+05]
+  Objective range  [9e+01, 7e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+01, 5e+02]
+  QRHS range       [1e+00, 6e+06]
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Modified 240 Q diagonals
+Presolve removed 49247 rows and 234192 columns
+Presolve time: 1.07s
+Presolved: 648 rows, 98040 columns, 147240 nonzeros
+Variable types: 120 continuous, 97920 integer (48960 binary)
+
+Root relaxation: objective 0.000000e+00, 804 iterations, 0.40 seconds
+Total elapsed time = 5.02s
+Total elapsed time = 10.44s
+Total elapsed time = 16.87s
+
+Gurobi 7.5.2 (win64, Python) logging started 04/14/18 12:51:37
+
+Academic license - for non-commercial use only
+Optimize a model with 50588 rows, 332112 columns and 459216 nonzeros
+Model has 1 quadratic constraint
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+00]
+  QMatrix range    [2e+01, 1e+02]
+  QLMatrix range   [3e+02, 1e+05]
+  Objective range  [9e+01, 7e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+02]
+  QRHS range       [6e+06, 6e+06]
+Presolve removed 49247 rows and 234192 columns
+Presolve time: 0.35s
+Presolved: 1462 rows, 98040 columns, 244920 nonzeros
+Variable types: 0 continuous, 98040 integer (48960 binary)
+
+Root relaxation: objective 7.300070e+04, 815 iterations, 0.46 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    73000.697556 73000.6976  0.00%     -    1s
+
+Explored 0 nodes (815 simplex iterations) in 1.35 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 73000.7 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 7.300069755635e+04, best bound 7.300069755635e+04, gap 0.0000%
+Optimize a model with 50588 rows, 332112 columns and 459216 nonzeros
+Model has 48720 quadratic objective terms
+Model has 1 quadratic constraint
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+00]
+  QMatrix range    [2e+01, 1e+02]
+  QLMatrix range   [3e+02, 1e+05]
+  Objective range  [0e+00, 0e+00]
+  QObjective range [2e+02, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+02]
+  QRHS range       [6e+06, 6e+06]
+Modified 48840 Q diagonals
+Presolve removed 49247 rows and 234192 columns
+Presolve time: 0.40s
+Presolved: 1462 rows, 98040 columns, 244920 nonzeros
+Presolved model has 97560 quadratic objective terms
+Variable types: 120 continuous, 97920 integer (48960 binary)
+
+Root relaxation: objective -1.565034e+07, 2145 iterations, 0.89 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 -1.565e+07    0  932          -    0.00000      -     -    1s
+H    0     0                      -0.0000038   -0.00000  0.00%     -    2s
+
+Explored 1 nodes (2145 simplex iterations) in 2.14 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: -3.84636e-06 
+No other solutions better than -3.84636e-06
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -7.724553258425e-06, best bound -7.724553258425e-06, gap 0.0000%
+Optimize a model with 50588 rows, 332112 columns and 459216 nonzeros
+Model has 1 quadratic constraint
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+00]
+  QMatrix range    [2e+01, 1e+02]
+  QLMatrix range   [3e+02, 1e+05]
+  Objective range  [9e+01, 7e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+02]
+  QRHS range       [6e+06, 6e+06]
+Presolve removed 49247 rows and 234192 columns
+Presolve time: 0.34s
+Presolved: 1462 rows, 98040 columns, 244920 nonzeros
+Variable types: 0 continuous, 98040 integer (48960 binary)
+
+Root relaxation: objective 7.300070e+04, 815 iterations, 0.44 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    73000.697556 73000.6976  0.00%     -    1s
+
+Explored 0 nodes (815 simplex iterations) in 1.32 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 73000.7 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 7.300069755635e+04, best bound 7.300069755635e+04, gap 0.0000%
+Optimize a model with 50588 rows, 332112 columns and 459216 nonzeros
+Model has 1 quadratic constraint
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+00]
+  QMatrix range    [2e+01, 1e+02]
+  QLMatrix range   [3e+02, 1e+05]
+  Objective range  [4e+01, 8e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+02]
+  QRHS range       [6e+06, 6e+06]
+Presolve removed 49247 rows and 234192 columns
+Presolve time: 0.33s
+Presolved: 1462 rows, 98040 columns, 244920 nonzeros
+Variable types: 0 continuous, 98040 integer (48960 binary)
+
+Root relaxation: objective 0.000000e+00, 1147 iterations, 0.28 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       0.0000000    0.00000  0.00%     -    1s
+
+Explored 0 nodes (1147 simplex iterations) in 1.13 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Optimize a model with 50588 rows, 332112 columns and 459216 nonzeros
+Model has 1 quadratic constraint
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+00]
+  QMatrix range    [2e+01, 1e+02]
+  QLMatrix range   [3e+02, 1e+05]
+  Objective range  [4e+01, 8e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+02]
+  QRHS range       [6e+06, 6e+06]
+Presolve removed 49247 rows and 234192 columns
+Presolve time: 0.33s
+Presolved: 1462 rows, 98040 columns, 244920 nonzeros
+Variable types: 0 continuous, 98040 integer (48960 binary)
+
+Root relaxation: objective 0.000000e+00, 1147 iterations, 0.28 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       0.0000000    0.00000  0.00%     -    1s
+
+Explored 0 nodes (1147 simplex iterations) in 1.13 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Optimize a model with 50588 rows, 332112 columns and 459216 nonzeros
+Model has 1 quadratic constraint
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+00]
+  QMatrix range    [2e+01, 1e+02]
+  QLMatrix range   [3e+02, 1e+05]
+  Objective range  [4e+01, 8e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+02]
+  QRHS range       [6e+06, 6e+06]
+Presolve removed 50016 rows and 282889 columns
+Presolve time: 0.31s
+Presolved: 693 rows, 49343 columns, 98686 nonzeros
+Variable types: 1 continuous, 49342 integer (263 binary)
+
+Root relaxation: objective 0.000000e+00, 830 iterations, 0.28 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       0.0000000    0.00000  0.00%     -    0s
+
+Explored 0 nodes (830 simplex iterations) in 0.79 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Optimize a model with 50588 rows, 332112 columns and 459216 nonzeros
+Model has 1 quadratic constraint
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+00]
+  QMatrix range    [2e+01, 1e+02]
+  QLMatrix range   [3e+02, 1e+05]
+  Objective range  [4e+01, 8e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+02]
+  QRHS range       [6e+06, 6e+06]
+Presolve removed 49247 rows and 234192 columns
+Presolve time: 0.33s
+Presolved: 1462 rows, 98040 columns, 244920 nonzeros
+Variable types: 0 continuous, 98040 integer (48960 binary)
+
+Root relaxation: objective 0.000000e+00, 1147 iterations, 0.28 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       0.0000000    0.00000  0.00%     -    0s
+
+Explored 0 nodes (1147 simplex iterations) in 1.11 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Optimize a model with 50588 rows, 332112 columns and 459216 nonzeros
+Model has 1838 quadratic objective terms
+Model has 1 quadratic constraint
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+00]
+  QMatrix range    [2e+01, 1e+02]
+  QLMatrix range   [3e+02, 1e+05]
+  Objective range  [0e+00, 0e+00]
+  QObjective range [8e+01, 2e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+02]
+  QRHS range       [6e+06, 6e+06]
+Presolve removed 49247 rows and 234192 columns
+Presolve time: 0.34s
+Presolved: 1996 rows, 98574 columns, 246522 nonzeros
+Variable types: 0 continuous, 98574 integer (49494 binary)
+
+Root relaxation: objective 0.000000e+00, 1180 iterations, 0.26 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       0.0000000    0.00000  0.00%     -    1s
+
+Explored 0 nodes (1180 simplex iterations) in 1.05 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Optimize a model with 50588 rows, 332112 columns and 459216 nonzeros
+Model has 1838 quadratic objective terms
+Model has 1 quadratic constraint
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+00]
+  QMatrix range    [2e+01, 7e+02]
+  QLMatrix range   [2e+04, 1e+05]
+  Objective range  [0e+00, 0e+00]
+  QObjective range [8e+01, 2e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+02]
+  QRHS range       [6e+06, 6e+06]
+Modified 654 Q diagonals
+Presolve removed 49247 rows and 234192 columns
+Presolve time: 0.43s
+Presolved: 50302 rows, 146880 columns, 391440 nonzeros
+Presolved model has 1188 quadratic objective terms
+Variable types: 120 continuous, 146760 integer (97800 binary)
+
+Root relaxation: objective -1.516272e+04, 2726 iterations, 0.25 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 -15162.722    0  532          -    0.00000      -     -    1s
+H    0     0                       0.0000000    0.00000  0.00%     -    1s
+
+Explored 1 nodes (2726 simplex iterations) in 2.04 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 2.84217e-14 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Optimize a model with 50468 rows, 332112 columns and 410256 nonzeros
+Model has 1838 quadratic objective terms
+Model has 1 quadratic constraint
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+00]
+  QMatrix range    [2e+01, 7e+02]
+  QLMatrix range   [2e+04, 1e+05]
+  Objective range  [0e+00, 0e+00]
+  QObjective range [8e+01, 2e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+02]
+  QRHS range       [6e+06, 6e+06]
+Modified 654 Q diagonals
+Presolve removed 49127 rows and 234192 columns
+Presolve time: 0.42s
+Presolved: 50302 rows, 146880 columns, 391440 nonzeros
+Presolved model has 1188 quadratic objective terms
+Variable types: 120 continuous, 146760 integer (97800 binary)
+
+Root relaxation: objective -1.516272e+04, 2726 iterations, 0.25 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 -15162.722    0  532          -    0.00000      -     -    1s
+H    0     0                       0.0000000    0.00000  0.00%     -    1s
+
+Explored 1 nodes (2726 simplex iterations) in 2.03 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 2.84217e-14 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Optimize a model with 50469 rows, 332112 columns and 459216 nonzeros
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 7e+02]
+  Objective range  [4e+01, 8e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+06]
+Warning: Model contains large matrix coefficient range
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Presolve removed 287 rows and 234312 columns
+Presolve time: 0.05s
+
+Explored 0 nodes (0 simplex iterations) in 0.52 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Optimize a model with 50588 rows, 332112 columns and 459216 nonzeros
+Model has 1838 quadratic objective terms
+Model has 1 quadratic constraint
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+00]
+  QMatrix range    [2e+01, 7e+02]
+  QLMatrix range   [2e+04, 1e+05]
+  Objective range  [0e+00, 0e+00]
+  QObjective range [8e+01, 2e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+02]
+  QRHS range       [6e+06, 6e+06]
+Modified 654 Q diagonals
+Presolve removed 49247 rows and 234192 columns
+Presolve time: 0.42s
+Presolved: 50302 rows, 146880 columns, 391440 nonzeros
+Presolved model has 1188 quadratic objective terms
+Variable types: 120 continuous, 146760 integer (97800 binary)
+
+Root relaxation: objective -1.516272e+04, 2726 iterations, 0.25 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 -15162.722    0  532          -    0.00000      -     -    1s
+H    0     0                       0.0000000    0.00000  0.00%     -    2s
+
+Explored 1 nodes (2726 simplex iterations) in 2.04 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 2.84217e-14 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Optimize a model with 50588 rows, 332112 columns and 459216 nonzeros
+Model has 1838 quadratic objective terms
+Model has 1 quadratic constraint
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+00]
+  QMatrix range    [2e+01, 7e+02]
+  QLMatrix range   [2e+04, 1e+05]
+  Objective range  [0e+00, 0e+00]
+  QObjective range [8e+01, 2e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+02]
+  QRHS range       [6e+07, 6e+07]
+Modified 654 Q diagonals
+Presolve removed 49247 rows and 234192 columns
+Presolve time: 0.42s
+Presolved: 50302 rows, 146880 columns, 391440 nonzeros
+Presolved model has 1188 quadratic objective terms
+Variable types: 120 continuous, 146760 integer (97800 binary)
+
+Root relaxation: objective -1.516272e+04, 2726 iterations, 0.25 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 -15162.722    0  532          -    0.00000      -     -    1s
+H    0     0                       0.0000000    0.00000  0.00%     -    1s
+
+Explored 1 nodes (2726 simplex iterations) in 2.02 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 2.84217e-14 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Optimize a model with 50588 rows, 332112 columns and 459216 nonzeros
+Model has 1838 quadratic objective terms
+Model has 1 quadratic constraint
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+00]
+  QMatrix range    [2e+01, 7e+02]
+  QLMatrix range   [2e+04, 1e+05]
+  Objective range  [0e+00, 0e+00]
+  QObjective range [8e+01, 2e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+02]
+  QRHS range       [6e+06, 6e+06]
+Modified 654 Q diagonals
+Presolve removed 49247 rows and 234192 columns
+Presolve time: 0.43s
+Presolved: 50302 rows, 146880 columns, 391440 nonzeros
+Presolved model has 1188 quadratic objective terms
+Variable types: 120 continuous, 146760 integer (97800 binary)
+
+Root relaxation: objective -1.516272e+04, 2726 iterations, 0.25 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 -15162.722    0  532          -    0.00000      -     -    1s
+H    0     0                       0.0000000    0.00000  0.00%     -    2s
+
+Explored 1 nodes (2726 simplex iterations) in 2.04 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 2.84217e-14 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Optimize a model with 50588 rows, 332112 columns and 459216 nonzeros
+Model has 48720 quadratic objective terms
+Model has 1 quadratic constraint
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+00]
+  QMatrix range    [2e+01, 7e+02]
+  QLMatrix range   [2e+04, 1e+05]
+  Objective range  [0e+00, 0e+00]
+  QObjective range [2e+02, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+02]
+  QRHS range       [6e+06, 6e+06]
+Modified 48840 Q diagonals
+Presolve removed 49247 rows and 234192 columns
+Presolve time: 0.44s
+Presolved: 50302 rows, 146880 columns, 391440 nonzeros
+Presolved model has 97560 quadratic objective terms
+Variable types: 120 continuous, 146760 integer (97800 binary)
+
+Root relaxation: objective -1.565034e+07, 2193 iterations, 1.55 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 -1.565e+07    0  932          -    0.00000      -     -    2s
+H    0     0                      -0.0000037   -0.00000  0.00%     -    3s
+
+Explored 1 nodes (2193 simplex iterations) in 3.50 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: -3.65268e-06 
+No other solutions better than -3.65268e-06
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -7.322665619439e-06, best bound -7.322665619439e-06, gap 0.0000%
+Optimize a model with 50588 rows, 332112 columns and 459216 nonzeros
+Model has 48720 quadratic objective terms
+Model has 1 quadratic constraint
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+00]
+  QMatrix range    [2e+01, 7e+02]
+  QLMatrix range   [2e+04, 1e+05]
+  Objective range  [0e+00, 0e+00]
+  QObjective range [2e+02, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+02]
+  QRHS range       [6e+07, 6e+07]
+Modified 48840 Q diagonals
+Presolve removed 49247 rows and 234192 columns
+Presolve time: 0.46s
+Presolved: 50302 rows, 146880 columns, 391440 nonzeros
+Presolved model has 97560 quadratic objective terms
+Variable types: 120 continuous, 146760 integer (97800 binary)
+
+Root relaxation: objective -1.565034e+07, 2193 iterations, 1.55 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 -1.565e+07    0  932          -    0.00000      -     -    2s
+H    0     0                      -0.0000037   -0.00000  0.00%     -    3s
+
+Explored 1 nodes (2193 simplex iterations) in 3.49 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: -3.65268e-06 
+No other solutions better than -3.65268e-06
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -7.322665619439e-06, best bound -7.322665619439e-06, gap 0.0000%
+Optimize a model with 50588 rows, 332112 columns and 459216 nonzeros
+Model has 48720 quadratic objective terms
+Model has 1 quadratic constraint
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+00]
+  QMatrix range    [2e+01, 7e+02]
+  QLMatrix range   [2e+04, 1e+05]
+  Objective range  [0e+00, 0e+00]
+  QObjective range [2e+02, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+02]
+  QRHS range       [6e+06, 6e+06]
+Modified 48840 Q diagonals
+Presolve removed 49247 rows and 234192 columns
+Presolve time: 0.61s
+Presolved: 50302 rows, 146880 columns, 391440 nonzeros
+Presolved model has 97560 quadratic objective terms
+Variable types: 120 continuous, 146760 integer (97800 binary)
+
+Root relaxation: objective -1.565034e+07, 2193 iterations, 1.77 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 -1.565e+07    0  932          -    0.00000      -     -    3s
+H    0     0                      -0.0000037   -0.00000  0.00%     -    4s
+
+Explored 1 nodes (2193 simplex iterations) in 4.39 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: -3.65268e-06 
+No other solutions better than -3.65268e-06
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -7.322665619439e-06, best bound -7.322665619439e-06, gap 0.0000%
+Optimize a model with 50588 rows, 332112 columns and 459216 nonzeros
+Model has 48720 quadratic objective terms
+Model has 1 quadratic constraint
+Variable types: 0 continuous, 332112 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+00]
+  QMatrix range    [2e+01, 7e+02]
+  QLMatrix range   [2e+04, 1e+05]
+  Objective range  [0e+00, 0e+00]
+  QObjective range [2e+02, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+02]
+  QRHS range       [6e+10, 6e+10]
+Warning: Model contains large rhs on quadratic constraints
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Presolve removed 49774 rows and 283152 columns
+Presolve time: 1.03s
+Presolved: 49534 rows, 97680 columns, 243840 nonzeros
+Variable types: 0 continuous, 97680 integer (97680 binary)
+Found heuristic solution: objective 0.0000000
+
+Explored 1 nodes (0 simplex iterations) in 1.25 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Optimize a model with 50182 rows, 331705 columns and 342120 nonzeros
+Model has 48720 quadratic objective terms
+Variable types: 0 continuous, 331705 integer (166056 binary)
+Coefficient statistics:
+  Matrix range     [1e-12, 1e+05]
+  Objective range  [0e+00, 0e+00]
+  QObjective range [2e+02, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+10]
+Warning: Model contains large matrix coefficient range
+Warning: Model contains large rhs
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Found heuristic solution: objective 0.0000000
+Presolve removed 50182 rows and 331705 columns
+Presolve time: 0.19s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.26 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Optimize a model with 98902 rows, 97800 columns and 342000 nonzeros
+Variable types: 0 continuous, 97800 integer (48960 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  Objective range  [9e+01, 7e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+06]
+Presolve removed 49247 rows and 48840 columns
+Presolve time: 0.61s
+Presolved: 49655 rows, 48960 columns, 195480 nonzeros
+Variable types: 0 continuous, 48960 integer (48960 binary)
+Found heuristic solution: objective 324875.74161
+
+Root relaxation: objective 8.653395e+04, 1034 iterations, 0.24 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 86533.9451    0   18 324875.742 86533.9451  73.4%     -    1s
+H    0     0                    86562.778483 86533.9451  0.03%     -    1s
+     0     0 86534.3343    0   25 86562.7785 86534.3343  0.03%     -    1s
+     0     0 86554.6797    0    1 86562.7785 86554.6797  0.01%     -    2s
+
+Explored 1 nodes (1064 simplex iterations) in 2.05 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: 86562.8 324876 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.656277848260e+04, best bound 8.655467968608e+04, gap 0.0094%
+Optimize a model with 98902 rows, 97800 columns and 342000 nonzeros
+Variable types: 0 continuous, 97800 integer (48960 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  Objective range  [9e+01, 7e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+07]
+Found heuristic solution: objective 1036732.2598
+Presolve removed 98902 rows and 97800 columns
+Presolve time: 0.25s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.29 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 2: 73000.7 1.03673e+06 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 7.300069755635e+04, best bound 7.300069755635e+04, gap 0.0000%
+Optimize a model with 98902 rows, 97800 columns and 342000 nonzeros
+Variable types: 0 continuous, 97800 integer (48960 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  Objective range  [9e+01, 7e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+08]
+Found heuristic solution: objective 1036732.2598
+Presolve removed 98902 rows and 97800 columns
+Presolve time: 0.24s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.28 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 2: 73000.7 1.03673e+06 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 7.300069755635e+04, best bound 7.300069755635e+04, gap 0.0000%
+Optimize a model with 98902 rows, 97800 columns and 342000 nonzeros
+Variable types: 0 continuous, 97800 integer (48960 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  Objective range  [9e+01, 7e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+06]
+Presolve removed 49247 rows and 48840 columns
+Presolve time: 0.60s
+Presolved: 49655 rows, 48960 columns, 195480 nonzeros
+Variable types: 0 continuous, 48960 integer (48960 binary)
+Found heuristic solution: objective 324875.74161
+
+Root relaxation: objective 8.653395e+04, 1034 iterations, 0.23 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 86533.9451    0   18 324875.742 86533.9451  73.4%     -    1s
+H    0     0                    86562.778483 86533.9451  0.03%     -    1s
+     0     0 86534.3343    0   25 86562.7785 86534.3343  0.03%     -    1s
+     0     0 86554.6797    0    1 86562.7785 86554.6797  0.01%     -    1s
+
+Explored 1 nodes (1064 simplex iterations) in 2.00 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: 86562.8 324876 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.656277848260e+04, best bound 8.655467968608e+04, gap 0.0094%
+Optimize a model with 98902 rows, 97800 columns and 342000 nonzeros
+Variable types: 0 continuous, 97800 integer (48960 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  Objective range  [9e+01, 7e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+05]
+Presolve removed 48840 rows and 48433 columns
+Presolve time: 0.16s
+
+Explored 0 nodes (0 simplex iterations) in 0.38 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Optimize a model with 98902 rows, 97800 columns and 342000 nonzeros
+Variable types: 0 continuous, 97800 integer (48960 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  Objective range  [9e+01, 7e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+06]
+Presolve removed 49247 rows and 48840 columns
+Presolve time: 0.61s
+Presolved: 49655 rows, 48960 columns, 195480 nonzeros
+Variable types: 0 continuous, 48960 integer (48960 binary)
+Found heuristic solution: objective 324875.74161
+
+Root relaxation: objective 8.653395e+04, 1034 iterations, 0.23 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 86533.9451    0   18 324875.742 86533.9451  73.4%     -    1s
+H    0     0                    86562.778483 86533.9451  0.03%     -    1s
+     0     0 86534.3343    0   25 86562.7785 86534.3343  0.03%     -    1s
+     0     0 86554.6797    0    1 86562.7785 86554.6797  0.01%     -    2s
+
+Explored 1 nodes (1064 simplex iterations) in 2.01 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: 86562.8 324876 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.656277848260e+04, best bound 8.655467968608e+04, gap 0.0094%
+Optimize a model with 98902 rows, 97800 columns and 342000 nonzeros
+Variable types: 0 continuous, 97800 integer (48960 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  Objective range  [9e+01, 7e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+14]
+Warning: Model contains large rhs
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Found heuristic solution: objective 1036732.2598
+Presolve removed 98902 rows and 97800 columns
+Presolve time: 0.14s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.18 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 2: 73000.7 1.03673e+06 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 7.300069755635e+04, best bound 7.300069755635e+04, gap 0.0000%
+Optimize a model with 98902 rows, 97800 columns and 342000 nonzeros
+Variable types: 0 continuous, 97800 integer (48960 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  Objective range  [9e+01, 7e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+06]
+Presolve removed 49247 rows and 48840 columns
+Presolve time: 0.60s
+Presolved: 49655 rows, 48960 columns, 195480 nonzeros
+Variable types: 0 continuous, 48960 integer (48960 binary)
+Found heuristic solution: objective 324875.74161
+
+Root relaxation: objective 8.653395e+04, 1034 iterations, 0.23 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 86533.9451    0   18 324875.742 86533.9451  73.4%     -    1s
+H    0     0                    86562.778483 86533.9451  0.03%     -    1s
+     0     0 86534.3343    0   25 86562.7785 86534.3343  0.03%     -    1s
+     0     0 86554.6797    0    1 86562.7785 86554.6797  0.01%     -    1s
+
+Explored 1 nodes (1064 simplex iterations) in 1.96 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: 86562.8 324876 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.656277848260e+04, best bound 8.655467968608e+04, gap 0.0094%
+Optimize a model with 98902 rows, 97800 columns and 342000 nonzeros
+Variable types: 0 continuous, 97800 integer (48960 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  Objective range  [9e+01, 7e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+08]
+Found heuristic solution: objective 1036732.2598
+Presolve removed 98902 rows and 97800 columns
+Presolve time: 0.26s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.30 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 2: 73000.7 1.03673e+06 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 7.300069755635e+04, best bound 7.300069755635e+04, gap 0.0000%
+Optimize a model with 98902 rows, 97800 columns and 342000 nonzeros
+Variable types: 0 continuous, 97800 integer (48960 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  Objective range  [9e+01, 7e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+06]
+Presolve removed 49247 rows and 48840 columns
+Presolve time: 0.60s
+Presolved: 49655 rows, 48960 columns, 195480 nonzeros
+Variable types: 0 continuous, 48960 integer (48960 binary)
+Found heuristic solution: objective 324875.74161
+
+Root relaxation: objective 8.653395e+04, 1034 iterations, 0.23 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 86533.9451    0   18 324875.742 86533.9451  73.4%     -    1s
+H    0     0                    86562.778483 86533.9451  0.03%     -    1s
+     0     0 86534.3343    0   25 86562.7785 86534.3343  0.03%     -    1s
+     0     0 86554.6797    0    1 86562.7785 86554.6797  0.01%     -    1s
+
+Explored 1 nodes (1064 simplex iterations) in 1.96 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: 86562.8 324876 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.656277848260e+04, best bound 8.655467968608e+04, gap 0.0094%

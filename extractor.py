@@ -204,13 +204,13 @@ def compute_shortest_path_fast(a,b,N,A,largo):
 #### Please comment if matrix already created, or else it will take more time ####
 ##################################################################################
 
-ultimatematrixmaker=[]
-for i in N:
-    for j in N:
-        pair=tuple((i,j))
-        d=compute_shortest_path_fast(i,j,N,A,largoreal)
-        ultimatematrixmaker.append(tuple((pair,d)))
-ultimatematrix=dict(ultimatematrixmaker)
+#ultimatematrixmaker=[]
+#for i in N:
+#    for j in N:
+#        pair=tuple((i,j))
+#        d=compute_shortest_path_fast(i,j,N,A,largoreal)
+#        ultimatematrixmaker.append(tuple((pair,d)))
+#ultimatematrix=dict(ultimatematrixmaker)
 
 
 
