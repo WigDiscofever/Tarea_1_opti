@@ -206,7 +206,7 @@ def compute_shortest_path_fast(a,b,N,A,largo):
 
 ultimatematrixmaker=[]
 for i in N:
-    for j in idsecure:
+    for j in N:
         pair=tuple((i,j))
         d=compute_shortest_path_fast(i,j,N,A,largoreal)
         ultimatematrixmaker.append(tuple((pair,d)))

@@ -107,19 +107,6 @@ def solvesolutions(q=1):
 q=2
 solvesolutions(q)       
         
-#### Create d_j matrix containg SP from each node to each safe node ####  
 
-##################################################################################
-#### Please comment if matrix already created, or else it will take more time ####
-##################################################################################
-
-#ultimatematrixmaker=[]
-#for i in N:
-#    for j in idsecure:
-#        pair=tuple((i,j))
-#        d=compute_shortest_path_fast(i,j,N,A,largoreal)
-#        ultimatematrixmaker.append(tuple((pair,d)))
-#print(ultimatematrixmaker)
-#ultimatematrix=dict(ultimatematrixmaker)
 
         
