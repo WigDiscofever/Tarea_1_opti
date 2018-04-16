@@ -12,7 +12,7 @@ print("Optimizing best secure points location")
 m=Model("P2")
 
 #### Decision Variables ####
-B=6000000
+B=12000000
 M=1000000000000
 x={}    
 y={}
@@ -47,6 +47,9 @@ for i in N:
         #### Flow has to be positive ####
         m.addConstr(P[i,j]>=0)
         
+        #### If there are no people going to j then there can be no flow ####
+        m.addConstr(P[i,j]<=M*y[i,j])
+        
 #### Node can only be assigned to at least 1 safe point and maximum 2 safe ponts ####
 for i in N:
     m.addConstr(quicksum(y[i,j] for j in idsecure) >= 1)
@@ -56,6 +59,7 @@ for i in N:
 for i in N:
     m.addConstr(quicksum(P[i,j] for j in idsecure) == p[i])
     
+
 #### Budget ####
     
 m.addConstr(quicksum(C[j]*x[j] for j in idsecure) +
@@ -73,7 +77,9 @@ m.optimize()
 if m.Status == GRB.OPTIMAL:
     print("Opt.Value", m.ObjVal)
 
+
 #### Draw nodes and edges ####
+import networkx as nx
 G = nx.Graph()
 G.add_nodes_from(N)
 #G.add_nodes_from(idsecure)
@@ -81,7 +87,7 @@ G.add_nodes_from(N)
 #    G.add_edge(i,j)
 securenodes=[]
 for (i,j) in nodetosecure:
-    if y[i,j].X==1:
+    if y[i,j].X==1 or y[i,j].X==2  :
         G.add_edge(i,j)
         if j not in securenodes:  
             securenodes.append(j)
@@ -95,25 +101,5 @@ for i in range(len(nodeswithposition)+1):
         a=nodeswithposition[i]
         position[i]=a
 nx.draw(G, position, node_color="red",node_size=20, nodelist=N)
+nx.draw(G, position, node_color="green",node_size=30, nodelist=idsecure)
 nx.draw(G, position, node_color="blue",node_size=70, nodelist=securenodes)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
