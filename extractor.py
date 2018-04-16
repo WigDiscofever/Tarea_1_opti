@@ -23,6 +23,10 @@ import math
 ######### Remember to comment last part of this script, else it with generate #########
 ############### the same matrix of distances, taking very long ########################
 #######################################################################################
+##################The file mega.spydata contains everything ###########################
+################## needed to run the scripts, please import ###########################
+################## if you want to avoid running this script ###########################
+#######################################################################################
 
 
 #### For A ####
